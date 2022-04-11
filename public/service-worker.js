@@ -1,5 +1,5 @@
-const CACHE_NAME = 'my-cache-v3'
-const DATA_CACHE_NAME = 'data-cache-v3';
+const CACHE_NAME = 'my-cache-v4'
+const DATA_CACHE_NAME = 'data-cache-v4';
 
 const FILES_TO_CACHE = [
   "./",
